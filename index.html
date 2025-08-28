@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGRODESARROLLO INTEGRAL - Asesoría Integral en Agronegocios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- header -->
+     <header class="header">
+        <nav class="nav">
+            <!--Titulo/Logo-->
+            <div class="logo">AGRODESARROLLO INTEGRAL</div>
+            <!--Links menu-->
+            <ul class="nav-links">
+                <!--Etiquetas-->
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#nosotros">Nosotros</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+     </header>
+
+     <!--Seccion de recursos visuales(hero-section)-->
+     <section id="inicio" class="hero">
+        <div class="hero-content">
+            <h1>AGRODESARROLLO INTEGRAL</h1>
+            <P class="subtitulo">Asesoría Integral en Agronegocios</P>
+            <p>Impulsa el crecimiento de tu negocio agrícola con nuestros servicios especializados en vinculación a mercados, asesoría financiera y gestión de proyectos agropecuarios.</p>
+            <a href="#contacto" class="cta-button">Solicita tu Consulta</a>
+        </div>
+     </section>
+
+     <!--Seccion de servicios-->
+     <section id="servicios" class="services">
+        <div class="container">
+            <h2 class="section-title">Nuestros Servicios</h2>
+            <div class="services-grid">
+                <div class="service-card fade-in">
+                    <div class="service-icon">🌍</div>
+                    <h3>Vinculación a Mercados</h3>
+                    <p>Te conectamos con mercados internacionales, nacionales, estatales y regionales para maximizar las oportunidades de tu negocio agrícola.</p>
+            </div>
+            <div class="service-card fade-in">
+                <div class="service-icon">📊</div>
+                <h3>Asesoría Integral</h3>
+                <p>Brindamos asesoría fiscal, contable, técnica y financiera especializada para optimizar la gestión de tu empresa agropecuaria.</p>
+            </div>
+            <div class="service-card fade-in">
+                <div class="service-icon">💰</div>
+                <h3>Gestión de Financiamiento</h3>
+                <p>Te ayudamos a identificar y gestionar las mejores opciones de financiamiento para tus proyectos e inversiones agrícolas.</p>
+            </div>
+            <div class="service-card fade-in">
+                <div class="service-icon">📋</div>
+                <h3>Proyectos Agropecuarios</h3>
+                <p>Formulamos y evaluamos proyectos agropecuarios viables que impulsen el crecimiento sostenible de tu negocio.</p>
+            </div>
+            </div>
+        </div>
+     </section>
+
+     <!-- Seccion de contactos -->
+    <section id="contacto" class="contact">
+        <div class="container">
+            <h2 class="section-title">Contáctanos</h2>
+            <div class="contact-content">
+                <div class="contact-form fade-in">
+                    <h3>Solicita tu Consulta</h3>
+                    <form id="contactForm">
+                        <div class="form-group">
+                            <label for="nombre">Nombre</label>
+                            <input type="text" id="nombre" name="nombre" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="empresa">Empresa</label>
+                            <input type="text" id="empresa" name="empresa">
+                        </div>
+                        <div class="form-group">
+                            <label for="email">Email</label>
+                            <input type="email" id="email" name="email" required>
+                        </div>
+                        <div class="form-group">
+                            <label for="telefono">Teléfono</label>
+                            <input type="tel" id="telefono" name="telefono">
+                        </div>
+                        <div class="form-group">
+                            <label for="servicio">Servicio de Interés</label>
+                            <select id="servicio" name="servicio" class="form-select">
+                                <option value="">Selecciona un servicio</option>
+                                <option value="vinculacion">Vinculación a Mercados</option>
+                                <option value="asesoria">Asesoría Integral</option>
+                                <option value="financiamiento">Gestión de Financiamiento</option>
+                                <option value="proyectos">Proyectos Agropecuarios</option>
+                            </select>
+                        </div>
+                        <div class="form-group">
+                            <label for="mensaje">Mensaje</label>
+                            <textarea id="mensaje" name="mensaje" rows="4" placeholder="Cuéntanos sobre tu proyecto..."></textarea>
+                        </div>
+                        <button type="submit" class="cta-button form-submit">Enviar Consulta</button>
+                    </form>
+                </div>
+                <div class="contact-info fade-in">
+                    <h3>Información de Contacto</h3>
+                    <div class="info-item">
+                        <div class="info-icon">📍</div>
+                        <div>
+                            <strong>Dirección</strong><br>
+                            Ciudad Obregón, Sonora, México
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">📞</div>
+                        <div>
+                            <strong>Teléfono</strong><br>
+                            +52 (644) 123-4567
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">📧</div>
+                        <div>
+                            <strong>Email</strong><br>
+                            contacto@agrodesarrollointegral.mx
+                        </div>
+                    </div>
+                    <div class="info-item">
+                        <div class="info-icon">⏰</div>
+                        <div>
+                            <strong>Horarios</strong><br>
+                            Lun - Vie: 8:00 AM - 6:00 PM<br>
+                            Sáb: 9:00 AM - 2:00 PM
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="footer-content">
+            <p>&copy; 2025 AGRODESARROLLO INTEGRAL. Todos los derechos reservados.</p>
+            <p>Asesoría Integral en Agronegocios - Ciudad Obregón, Sonora, México</p>
+        </div>
+    </footer>
+
+    <script src="scripts.js"></script>
+    </body>
+</html>

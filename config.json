@@ -1,0 +1,224 @@
+{
+    "empresa": {
+      "nombre": "AGRODESARROLLO INTEGRAL",
+      "descripcion": "Asesoría Integral en Agronegocios",
+      "mision": "Impulsar el crecimiento sostenible de los agronegocios mediante soluciones integrales y personalizadas",
+      "vision": "Ser la empresa líder en asesoría agropecuaria en México, reconocida por nuestra excelencia y compromiso",
+      "ubicacion": {
+        "ciudad": "Ciudad Obregón",
+        "estado": "Sonora",
+        "pais": "México",
+        "direccion_completa": "Ciudad Obregón, Sonora, México"
+      }
+    },
+    
+    "contacto": {
+      "telefono": "+52 (644) 123-4567",
+      "email": "contacto@agrodesarrollointegral.mx",
+      "whatsapp": "+52 644 123 4567",
+      "horarios": {
+        "lunes_viernes": "8:00 AM - 6:00 PM",
+        "sabado": "9:00 AM - 2:00 PM",
+        "domingo": "Cerrado"
+      },
+      "redes_sociales": {
+        "facebook": "https://facebook.com/agrodesarrollointegral",
+        "instagram": "https://instagram.com/agrodesarrollointegral",
+        "linkedin": "https://linkedin.com/company/agrodesarrollo-integral",
+        "twitter": "https://twitter.com/agrodesarrollo_mx"
+      }
+    },
+    
+    "servicios": [
+      {
+        "id": "vinculacion_mercados",
+        "titulo": "Vinculación a Mercados",
+        "icono": "🌍",
+        "descripcion_corta": "Te conectamos con mercados internacionales, nacionales, estatales y regionales para maximizar las oportunidades de tu negocio agrícola.",
+        "descripcion_completa": "Nuestro servicio de vinculación a mercados te conecta con oportunidades comerciales en diferentes niveles: internacional, nacional, estatal y regional. Analizamos tu producto, identificamos los mejores canales de comercialización y te acompañamos en el proceso de negociación para maximizar tus ingresos.",
+        "beneficios": [
+          "Acceso a mercados internacionales",
+          "Conexión con compradores nacionales",
+          "Identificación de oportunidades regionales",
+          "Negociación de mejores precios",
+          "Diversificación de canales de venta"
+        ],
+        "proceso": [
+          "Análisis del producto y mercado objetivo",
+          "Identificación de oportunidades comerciales",
+          "Contacto con compradores potenciales",
+          "Negociación de contratos",
+          "Seguimiento y evaluación"
+        ]
+      },
+      {
+        "id": "asesoria_integral",
+        "titulo": "Asesoría Integral",
+        "icono": "📊",
+        "descripcion_corta": "Brindamos asesoría fiscal, contable, técnica y financiera especializada para optimizar la gestión de tu empresa agropecuaria.",
+        "descripcion_completa": "Ofrecemos asesoría especializada en múltiples áreas: fiscal, contable, técnica y financiera. Nuestro equipo de expertos te ayuda a optimizar todos los aspectos de tu negocio agropecuario, desde la contabilidad hasta la planificación fiscal y técnica.",
+        "areas": [
+          "Asesoría Fiscal",
+          "Contabilidad Especializada",
+          "Consultoría Técnica Agropecuaria",
+          "Planificación Financiera",
+          "Optimización de Recursos"
+        ],
+        "beneficios": [
+          "Cumplimiento fiscal completo",
+          "Optimización tributaria",
+          "Control financiero efectivo",
+          "Mejoras en productividad",
+          "Reducción de costos operativos"
+        ]
+      },
+      {
+        "id": "gestion_financiamiento",
+        "titulo": "Gestión de Financiamiento",
+        "icono": "💰",
+        "descripcion_corta": "Te ayudamos a identificar y gestionar las mejores opciones de financiamiento para tus proyectos e inversiones agrícolas.",
+        "descripcion_completa": "Gestionamos y facilitamos el acceso a diferentes fuentes de financiamiento para proyectos agropecuarios. Desde créditos bancarios hasta programas gubernamentales, te acompañamos en todo el proceso para conseguir los recursos necesarios para tu negocio.",
+        "tipos_financiamiento": [
+          "Créditos Bancarios Agropecuarios",
+          "Programas Gubernamentales",
+          "Fondos de Inversión Privados",
+          "Microcréditos Rurales",
+          "Financiamiento para Exportación"
+        ],
+        "proceso": [
+          "Evaluación de necesidades financieras",
+          "Identificación de fuentes de financiamiento",
+          "Preparación de documentación",
+          "Presentación de solicitudes",
+          "Seguimiento y gestión"
+        ]
+      },
+      {
+        "id": "proyectos_agropecuarios",
+        "titulo": "Proyectos Agropecuarios",
+        "icono": "📋",
+        "descripcion_corta": "Formulamos y evaluamos proyectos agropecuarios viables que impulsen el crecimiento sostenible de tu negocio.",
+        "descripcion_completa": "Diseñamos, formulamos y evaluamos proyectos agropecuarios integrales. Desde estudios de factibilidad hasta planes de implementación, desarrollamos proyectos que garanticen la viabilidad económica y sostenibilidad de tu inversión.",
+        "tipos_proyectos": [
+          "Proyectos de Producción Agrícola",
+          "Desarrollos Ganaderos",
+          "Proyectos de Riego y Tecnificación",
+          "Agroindustria y Procesamiento",
+          "Proyectos de Exportación"
+        ],
+        "fases": [
+          "Estudio de Pre-factibilidad",
+          "Estudio de Factibilidad",
+          "Formulación del Proyecto",
+          "Plan de Implementación",
+          "Evaluación y Seguimiento"
+        ]
+      }
+    ],
+    
+    "estadisticas": [
+      {
+        "numero": "500+",
+        "descripcion": "Proyectos Exitosos",
+        "icono": "🎯"
+      },
+      {
+        "numero": "15+",
+        "descripcion": "Años de Experiencia",
+        "icono": "⏰"
+      },
+      {
+        "numero": "50+",
+        "descripcion": "Mercados Conectados",
+        "icono": "🌐"
+      },
+      {
+        "numero": "98%",
+        "descripcion": "Satisfacción del Cliente",
+        "icono": "⭐"
+      }
+    ],
+    
+    "equipo": [
+      {
+        "nombre": "Ing. María González",
+        "puesto": "Directora General",
+        "especialidad": "Ingeniería Agronómica",
+        "experiencia": "15 años",
+        "descripcion": "Especialista en desarrollo de proyectos agropecuarios y vinculación comercial"
+      },
+      {
+        "nombre": "C.P. Juan Rodríguez",
+        "puesto": "Director Financiero",
+        "especialidad": "Contaduría Pública",
+        "experiencia": "12 años",
+        "descripcion": "Experto en asesoría fiscal y financiera para el sector agropecuario"
+      },
+      {
+        "nombre": "Ing. Ana Martínez",
+        "puesto": "Coordinadora Técnica",
+        "especialidad": "Ingeniería en Agronegocios",
+        "experiencia": "10 años",
+        "descripcion": "Especialista en tecnificación agrícola y optimización de procesos"
+      }
+    ],
+    
+    "testimoniales": [
+      {
+        "nombre": "Roberto Sánchez",
+        "empresa": "Agrícola San Miguel",
+        "testimonio": "AGRODESARROLLO INTEGRAL transformó nuestra operación. Gracias a su asesoría, logramos expandir a mercados internacionales.",
+        "calificacion": 5
+      },
+      {
+        "nombre": "Patricia López",
+        "empresa": "Ganadera Los Pinos",
+        "testimonio": "Su apoyo en la gestión de financiamiento fue clave para modernizar nuestras instalaciones ganaderas.",
+        "calificacion": 5
+      },
+      {
+        "nombre": "Miguel Torres",
+        "empresa": "Cooperativa Valle Verde",
+        "testimonio": "El proyecto que desarrollaron para nosotros superó todas nuestras expectativas. Altamente recomendado.",
+        "calificacion": 5
+      }
+    ],
+    
+    "sectores_atencion": [
+      {
+        "nombre": "Agricultura",
+        "subcategorias": ["Granos", "Hortalizas", "Frutales", "Cultivos Industriales"]
+      },
+      {
+        "nombre": "Ganadería",
+        "subcategorias": ["Bovinos", "Porcinos", "Ovinos", "Avicultura"]
+      },
+      {
+        "nombre": "Agroindustria",
+        "subcategorias": ["Procesamiento", "Empaque", "Comercialización", "Exportación"]
+      },
+      {
+        "nombre": "Acuacultura",
+        "subcategorias": ["Pesca", "Camaronicultura", "Tilapia", "Especies Nativas"]
+      }
+    ],
+    
+    "configuracion_sitio": {
+      "colores": {
+        "primario": "#2c5530",
+        "secundario": "#4a7c59",
+        "acento": "#FFA500",
+        "fondo": "#f8fffe"
+      },
+      "animaciones": {
+        "duracion_fade": "0.6s",
+        "delay_cards": "0.2s",
+        "velocidad_contador": 60
+      },
+      "seo": {
+        "titulo_principal": "AGRODESARROLLO INTEGRAL - Asesoría en Agronegocios",
+        "descripcion_meta": "Especialistas en asesoría integral para agronegocios. Vinculación a mercados, financiamiento y desarrollo de proyectos agropecuarios.",
+        "palabras_clave": "agronegocios, asesoría agropecuaria, financiamiento agrícola, proyectos agropecuarios, mercados agrícolas, Sonora"
+      }
+    }
+  }
